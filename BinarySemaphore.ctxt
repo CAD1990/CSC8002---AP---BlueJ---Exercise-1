@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BinarySemaphore()
+comment1.params=initial
+comment1.target=BinarySemaphore(int)
+comment2.params=
+comment2.target=void\ P()
+comment3.params=
+comment3.target=void\ V()
+numComments=4
